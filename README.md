@@ -6,7 +6,7 @@ Download any song from <a href="audiotool.com">Audiotool</a>.
 - - - -
 - [x] No Account Needed
 - [x] Supports songs with Downloads disabled
-<img align=top width=25% heigth=25% src="https://i.imgur.com/IqjL1rQ.png">
+<img width=30% heigth=30% src="https://i.imgur.com/IqjL1rQ.png">
 
 - - - -
 
